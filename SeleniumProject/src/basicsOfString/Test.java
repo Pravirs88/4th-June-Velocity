@@ -14,6 +14,8 @@ public class Test {
 		 ss[3]="Atul_Mishra";
 		 ss[4]="Dhiraj_Master";
 		 
+		 System.out.println("Tanvir");
+		 
 		 //Calling of Main Method from Test2 Class As Classname.main(args)
 		 
 		 Test2.main(ss); // here we provide argument = Array ss as define
